@@ -22,3 +22,7 @@ Thumbs.db
 # Saidas grandes opcionais (descomente se nao quiser versionar)
 # figs/
 # outputs/
+
+# Artefatos internos (nao publicar)
+apresentacao/roteiro_video.md
+apresentacao/storytelling_executivo.md
