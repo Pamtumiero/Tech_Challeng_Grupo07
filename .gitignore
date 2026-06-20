@@ -26,3 +26,6 @@ Thumbs.db
 # Artefatos internos (nao publicar)
 apresentacao/roteiro_video.md
 apresentacao/storytelling_executivo.md
+
+# Ferramentaria de geracao (mantida apenas localmente)
+src/
