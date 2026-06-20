@@ -1,9 +1,21 @@
 # 📊 Olist — Tech Challenge Fase 1 (POSTECH DTAT)
 
-Análise do **Brazilian E-Commerce Public Dataset by Olist** (Kaggle). **Problema central do challenge:**
-**Geografia e Categorias** — por que o Brasil além do Sudeste compra menos e recebe atrasado, e o que fazer.
+Análise do **Brazilian E-Commerce Public Dataset by Olist** (Kaggle).
+**Problema central do challenge:**
+**Atrair mais investidores**
 
-> **Aluno:** Vitor Martino · **Curso:** POSTECH DTAT — Tech Challenge Fase 1
+**Foco do grupo para atacar a proposta:**
+**Geografia e Categorias** — A problemática na distribuição e venda no território brasileiro.
+
+> **Alunos:** 
+> 1. Lucas Aguiar de Moura - rm375551
+> 2. ⁠Pamela Regina Tumiero da Costa - rm374909
+> 3. ⁠Guilherme Augusto Justino da Silva - rm374370
+> 4. ⁠Mariana Nogueira Salgado Zeron - rm374774
+> 5. Vitor Martino - rm374436
+> 
+> **Curso:** POSTECH DTAT — Tech Challenge Fase 1
+> 
 > **Foco da apresentação:** Geografia e Categorias (Nordeste e Centro-Oeste). Os demais estudos (crescimento,
 > top performers, profundidade/RFM) entram como **análises de apoio**.
 
@@ -40,9 +52,9 @@ tech_challenge_olist/
 │   ├── documentacao_tecnica.md
 │   └── recomendacoes_consolidadas.md     # consolidação executiva
 ├── apresentacao/
-│   ├── roteiro_video.md                  # script do vídeo executivo (≤5 min)
-│   ├── storytelling_executivo.md         # narrativa de investimento
-│   └── apresentacao_executiva.pptx       # deck executivo
+│   ├── Relatorio_Tech_Challenge_Olist_ABNT_FIAP.docx    # documento final para entrega do trabalho em docx
+│   ├── Relatorio_Tech_Challenge_Olist_ABNT_FIAP.pdf     # documento final para entrega do trabalho em pdf
+│   └── apresentacao_executiva.pptx                      # deck executivo
 ├── src/                        # geradores reprodutíveis dos notebooks
 │   ├── build_common.py
 │   └── gen_pessoa1..4.py
