@@ -55,9 +55,6 @@ tech_challenge_olist/
 │   ├── Relatorio_Tech_Challenge_Olist_ABNT_FIAP.docx    # documento final para entrega do trabalho em docx
 │   ├── Relatorio_Tech_Challenge_Olist_ABNT_FIAP.pdf     # documento final para entrega do trabalho em pdf
 │   └── apresentacao_executiva.pptx                      # deck executivo
-├── src/                        # geradores reprodutíveis dos notebooks
-│   ├── build_common.py
-│   └── gen_pessoa1..4.py
 ├── requirements.txt
 └── README.md
 ```
@@ -68,10 +65,6 @@ python -m venv .venv && .venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 # baixar os 9 CSVs do Kaggle para data/
 jupyter lab    # abrir notebooks/ e "Run All"
-```
-Para regenerar tudo do zero (figuras + outputs + notebooks executados):
-```bash
-cd src && python gen_pessoa1.py && python gen_pessoa2.py && python gen_pessoa3.py && python gen_pessoa4.py
 ```
 
 ## 🧭 Estrutura analítica
