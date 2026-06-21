@@ -16,7 +16,7 @@ Análise do **Brazilian E-Commerce Public Dataset by Olist** (Kaggle).
 > 
 > **Curso:** POSTECH DTAT — Tech Challenge Fase 1
 > 
-> **Foco da apresentação:** Geografia e Categorias (Nordeste e Centro-Oeste). Os demais estudos (crescimento,
+> **Foco da apresentação:** Olist: Oportunidades de Expansão Além do Sudeste. Os demais estudos (crescimento,
 > top performers, profundidade/RFM) entram como **análises de apoio**.
 
 ---
